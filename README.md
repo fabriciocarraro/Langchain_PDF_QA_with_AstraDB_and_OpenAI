@@ -1,0 +1,1 @@
+# Langchain_PDF_QA_with_AstraDB_and_OpenAI
